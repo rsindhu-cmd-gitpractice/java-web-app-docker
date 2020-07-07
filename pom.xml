@@ -105,10 +105,10 @@
 	      <url>http://13.127.83.183:8081/repository/binaryrepo/</url>
 	    </repository>
 	    <snapshotRepository>
-	      <id>nexusrepo</id>
+	      <id>nexus</id>
 	      <name>Snapshot Nexus Repository </name>
 	      <url>http://13.127.83.183:8081/repository/snapshotbinariesrepo/</url>
-	    </snapshotRepository>-->
+	    </snapshotRepository>
 	</distributionManagement> 
 	
 	<build>
